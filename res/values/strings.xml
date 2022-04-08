@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KwikLink</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve"
+        translatable="false">AIzaSyADe1rnB3rmt_67nGDro4eTTbY_m2X5XAk</string>
+</resources>
